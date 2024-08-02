@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mui/material": "^5.16.1",
+    "bootstrap": "^5.3.3",
+    "react-router-dom": "^6.24.1",
+    "reactstrap": "^9.2.2"
+  }
+}

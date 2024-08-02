@@ -1,0 +1,6 @@
+@TheCatWalk_HostAddress = http://localhost:5079
+
+GET {{TheCatWalk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
